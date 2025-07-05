@@ -17,7 +17,16 @@ This is a portfolio-style website project built as part of a JavaScript and web 
 - [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/) for smooth scrolling
 - [Remix Icon](https://remixicon.com/) for icons
 
+---
+## What I Learned
 
+- Gsap animations like using timelines to sequence multiple animations on page load and creating mouse-responsive effects.
+- Used locomotive for the smooth scrolling effect
+- Scale and distort based on motion.
+- Show live time.
+- DOM manipulation
+
+---
 ## Credits
 
 - Project structure and design inspired by Cynthia Ugwu's portfolio.
